@@ -1,0 +1,14 @@
+<svg width="28.000000" height="28.000000" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_165_770" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image165_77_0" transform="matrix(0.010417,0,0,0.010417,0,0)"/>
+		</pattern>
+		<image id="image165_77_0" width="96.000000" height="96.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAABHNCSVQICAgIfAhkiAAAAzxJREFUeJzt3b9qFFEUx/HvNaCFZovUFvYq+gpGA8ZOo09gwDo+iAqiKOhzCEZ9BgUFtZKstaCJjRCPxQwhWZPs3j+zZ+/O7wPbZDkzZ+8vM0Pm3uyAiIiIiIiIiIj0RcjdgJldBNaBq8A54HTuNmfcb+Ab8AZ4EUL4mLOx5ADM7BTwELgHnMhpomJ/gWfARgjhT8oGkgJoB/8VcCWlfg69A1ZTQkj9zX2EBn+/ZeBBSmH0EdCe89/T39POUXaBSyGETzFFKYO4nlg37xaAu7FFKQN5LaGmL1ZiC1JOQdvAmdi6ntgOIQxiClKOgFkY/CFwGxi0r1vAF9eOGouxBSlHgMXWFDYELocQfuz/oZktAR+Asy5dtUIIUWNa48V0Y3TwAdqf3XfoJ0uNR8AghLB92BtmNgB+TrmfA2KPgOoCGPcBZ72/UTWeguaKAnCmAJwpAGcKwJkCcKYAnCkAZwrAmQJwpgCceQXgfT/fe/97PG7GZd3PL3AzrtP5hBpuxnnfz/fe/8H9xhYUOAKy7ucXOAI6nU+o4Qg4TvZa1dr27xHAcctaprHkxXv/eSzf5/aCN7rdJTP7Oq64QH9Z+8/tL1tug62hmd0xs0H7WrMJP3yh/pL3n9vfKM0JF1b7Rbh3FIAzBeBMAThTAM4UgDMF4EwBOFMAzhSAMwXgTAE4UwDOFIAzBVCbCeclttpJjuj/m501ZrZoZjetmUkrPiGT0tAkg//flF/trJmyHNYQwFrnTTixZhqzaABdTEkeue6mdlZg3dIoXYTjFF831EUAs7+2Jp3/Z5vgGnDoupvaWaF1SyUamcTeupvOG+qYFV63NKq6dUGzThfhyigAZwrAmQJwpgCcKQBnCsBZSgA7xbuYH79iC1IC2Eqo6YvosUkJYDOhpi9exxak3Iq4QPP19QuxtXNuOl9f3z4z5XlsXQ88jR18SH+EyUmaR5gsp9TPobfAjak9wqTd0SrwhObQ66td4DGJgw9lHmN1nubJESs0j7Gaha+379IOzWOsNoGXKaed/YrPcY6bL4i9Xz5t0+5ffwk76yKA78e8N+xgf6XV3b+ZrdrhK8i2zOy6d3/j1N6/iIiIiIjMvn8y+GGFNSuPpgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<g opacity="0.400000">
+		<rect id="Kitchen Room" width="27.999998" height="27.999998" fill="url(#pattern_165_770)" fill-opacity="1.000000"/>
+	</g>
+</svg>

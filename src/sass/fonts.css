@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'TT Travels Next Trl';
+    src: url('/fonts/TTTravelsNextTrl-Rg.eot');
+    src: url('/fonts/TTTravelsNextTrl-Rg.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTTravelsNextTrl-Rg.woff2') format('woff2'),
+        url('/fonts/TTTravelsNextTrl-Rg.woff') format('woff'),
+        url('/fonts/TTTravelsNextTrl-Rg.ttf') format('truetype'),
+        url('/fonts/TTTravelsNextTrl-Rg.svg#TTTravelsNextTrl-Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Travels Next Trl';
+    src: url('/fonts/TTTravelsNextTrl-Bd.eot');
+    src: url('/fonts/TTTravelsNextTrl-Bd.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTTravelsNextTrl-Bd.woff2') format('woff2'),
+        url('/fonts/TTTravelsNextTrl-Bd.woff') format('woff'),
+        url('/fonts/TTTravelsNextTrl-Bd.ttf') format('truetype'),
+        url('/fonts/TTTravelsNextTrl-Bd.svg#TTTravelsNextTrl-Bd') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Travels Next Trial Variable';
+    src: url('/fonts/TTTravelsNextTrialVariable.eot');
+    src: url('/fonts/TTTravelsNextTrialVariable.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTTravelsNextTrialVariable.woff2') format('woff2'),
+        url('/fonts/TTTravelsNextTrialVariable.woff') format('woff'),
+        url('/fonts/TTTravelsNextTrialVariable.ttf') format('truetype'),
+        url('/fonts/TTTravelsNextTrialVariable.svg#TTTravelsNextTrialVariable') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Travels Next Trl Md';
+    src: url('/fonts/TTTravelsNextTrl-Md.eot');
+    src: url('/fonts/TTTravelsNextTrl-Md.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTTravelsNextTrl-Md.woff2') format('woff2'),
+        url('/fonts/TTTravelsNextTrl-Md.woff') format('woff'),
+        url('/fonts/TTTravelsNextTrl-Md.ttf') format('truetype'),
+        url('/fonts/TTTravelsNextTrl-Md.svg#TTTravelsNextTrl-Md') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

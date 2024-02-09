@@ -1,0 +1,16 @@
+<svg width="534.000000" height="175.000000" viewBox="0 0 534 175" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_165_93_dd" x="0.000000" y="0.000000" width="534.000000" height="175.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="4.66667"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_165_93_dd)">
+		<path id="Union" d="M28 0L506 0C521.464 0 534 12.5361 534 28L534 85.5C534 95.7173 525.717 104 515.5 104C505.283 104 497 112.283 497 122.5L497 125C497 136.598 487.598 146 476 146L357.5 146C349.492 146 343 152.492 343 160.5C343 168.508 336.508 175 328.5 175L28 175C12.5361 175 0 162.464 0 147L0 28C0 12.5361 12.5361 0 28 0Z" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
